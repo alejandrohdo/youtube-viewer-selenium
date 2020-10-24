@@ -61,15 +61,24 @@ class YoutubeViewerRobot():
 			print ('Error time play list>', e)
 
 	def two_speed_play_video(self, driver):
+		'''Aumenta la velociadad de reproduccion a 2x'''
 		try:
 			xpath_config_video = '//*[@id="movie_player"]/div[25]//button[3]'
 			xpath_playback_speed = "//div[contains(@class, 'ytp-popup ytp-settings-menu')]/div/div[1]/div[2]"
-			driver.find_element_by_xpath(xpath_config_video).click()
-			time.sleep(2)
-			driver.find_element_by_xpath(xpath_playback_speed).click()
-			driver.find_element_by_xpath(xpath_playback_speed).send_keys(Keys.DOWN)
+			#velocidad al final de xpath> div[8]=2, div[7]=1.75, div[6]=1.5,etc.
+			driver.find_element_by_xpath(xpath_config_video).click() #click config
+			time.sleep(0.5)
+			driver.find_element_by_xpath(xpath_playback_speed).click() #click velocidad reproduccion
+			time.sleep(0.5)
+			xpath_playback_down = "//div[contains(@class, 'ytp-popup ytp-settings-menu')]/div/div/div[8]"
+			driver.find_element_by_xpath(xpath_playback_down).click()
+			time.sleep(0.5)
+			driver.find_element_by_xpath(xpath_config_video).send_keys(Keys.ESCAPE)
+			# driver.find_element_by_xpath(xpath_playback_down).send_keys(Keys.DOWN)
+			return True
 		except Exception as e:
 			print ('Error xpath speed>', e)
+		return False
 
 
 	def get_open_browser(self, list_channels):
@@ -78,11 +87,11 @@ class YoutubeViewerRobot():
 			PATH_CHROMEDRIVER = '/home/alejandro/Downloads/chromedriver_linux64-2/chromedriver'
 			PATH_LOG = self.get_path_base_driver() +"/app/tweet/log/log_renovate_cookie_twitter.txt"
 			chrome_options = webdriver.ChromeOptions()
-			chrome_options.add_argument('--no-sandbox')
+			# chrome_options.add_argument('--no-sandbox')
 			# chrome_options.add_argument("--headless")
 			chrome_options.add_argument("--mute-audio")
-			chrome_options.add_argument('--disable-extensions')
-			chrome_options.add_argument('--dns-prefetch-disable')
+			# chrome_options.add_argument('--disable-extensions')
+			# chrome_options.add_argument('--dns-prefetch-disable')
 			# estrategia de carga
 			# options = Options()
 			# options.page_load_strategy = 'eager' # defecto = 'normal',  y None
@@ -91,6 +100,8 @@ class YoutubeViewerRobot():
 			    # options=options,
 			    chrome_options=chrome_options,
 			    executable_path=PATH_CHROMEDRIVER)
+			counter_for = 0 # solo para activar 2x por primeva vez
+			activate_two_speed_play_video = False
 			for channel in list_channels:
 				print ('Visitando..', channel)
 				driver.get(channel)
@@ -99,13 +110,23 @@ class YoutubeViewerRobot():
 					driver.find_element_by_xpath(xpath_view_video).click()
 					time.sleep(20)
 					all_time_duration_play_list = self.extract_time_duration_play_list(driver)
-					print ('Aumentado velocidad de reproduccion')
-					self.two_speed_play_video(driver)
-					print ('Esperando a que reproduzca {0} segundos'.format(all_time_duration_play_list))
-					time.sleep(all_time_duration_play_list+20)
+					if counter_for ==0:
+						print ('Aumentado velocidad de reproduccion')
+						is_two_speed_play_video =  self.two_speed_play_video(driver)
+						if is_two_speed_play_video and all_time_duration_play_list>0:
+							print ('Duracion real del video en 1x {0} min'.format(all_time_duration_play_list/60.0))
+							print('Velocidad reproduccion 2x activado')
+							all_time_duration_play_list = all_time_duration_play_list/2.0 
+							activate_two_speed_play_video = True
+					if activate_two_speed_play_video:
+						all_time_duration_play_list = all_time_duration_play_list/2.0 
+					print ('Esperando a que reproduzca {0} min'.format(all_time_duration_play_list/60.0))
+					time.sleep(all_time_duration_play_list+10) #mas 10s de extra
+					counter_for +=1
 				except Exception as e:
 					print ('Error al ubicar xpath de ver todos los videos..', e )
 				time.sleep(5)
+
 			# guardamos el registro de renovaciones en log
 			# f = open(PATH_LOG, 'a')
 			# mensaje = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ') + " : x-csrf-token :" + \
