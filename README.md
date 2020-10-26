@@ -1,24 +1,30 @@
-## Robot que visualiza videos en youtube de canales para Hombo
+# Aplicación que ayuda a visualizar videos en youtube por canales de un usuario
 
 By [@alejanadrohdo](https://www.facebook.com/alejandrohdo)
 
-### Requisitos del robot:
+### Requisitos generales:
 - git
 - pip3 
 - Virtualenv 
 - Python3.6.x
 - selenium==3.141.0 
 
-##PASOS O ACCIONES:
+### PASOS O ACCIONES QUE REALIZA EL SCRIPT:
 - 1: Visitar al canal, a la seccion de videos
 - 2: Realizar click en reproducir todo
 - 2: Aumentar la reproduccion de videos a 2x, si es la primera iteración autenticarse o reutilizar la sesión de firefox y verificar los likes de todos los videos.
 - 4: Esperar entre 15 a 30min en una iteración
 - 5: repetir las acciones anteriores
 
-### PASOS PARA EJECUTAR EN MODO DESARROLLO
-	- Antes tener aguegrado su llave ssh en su perfil de gitlab, 
-	[generación de id_rsa.pub](https://www.ssh.com/ssh/keygen/)
+## PASOS PARA EJECUTAR EN MODO DESARROLLO
+- Antes tener aguegrado su llave ssh en su perfil de gitlab, 
+[generación de id_rsa.pub](https://www.ssh.com/ssh/keygen/)
+
+- Descarga de driver para seleninum geckodriver, 
+[geckodriver](https://github.com/mozilla/geckodriver/releases)
+
+- Descarga de python3.6.x , 
+[python3](https://www.python.org/downloads/)
 
 Clonar el repositorio
 ```
@@ -38,7 +44,7 @@ cp hombo-youtube/example_config.json hombo-youtube/config.json && cd hombo-youtu
 pip install -r install requeriments.txt
 ```
 
-###Ejecuación del script
+### Ejecuación del script
 ```
  python youtubeViewerRobot.py
 ```
