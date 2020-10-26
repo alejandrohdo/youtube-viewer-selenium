@@ -1,7 +1,7 @@
 {
     "path_config":{
-        "pathChromedriver" : "/usr/local/share/chromedriver",
-        "dir_gectkodriver_mozilla": "/home/alejandro/Downloads/geckodriver-v0.24.0-linux64/geckodriver"
+        "dir_gectkodriver_mozilla": "/home/alejandro/Downloads/geckodriver-v0.26.0-linux64/geckodriver",
+        "firefox_profile": "/home/alejandro/.mozilla/firefox/1kj45idd.default"
     }
 
 }
