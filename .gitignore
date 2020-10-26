@@ -1,0 +1,44 @@
+
+#GitIgnore de todas las migraciones
+# aplicaciones/usuarios/migrations/*
+media/*
+#gitIgnore de Setting.py
+public/*
+hombo-youtube/__pycache__/*
+config.json
+llave_privada_ssl.key
+bin
+include
+lib
+public/*
+# File types #
+##############
+*.pyo
+*.pyc
+*.swo
+*.swp
+*.swn
+*.log
+
+
+# PyCharm project settings
+.idea
+.vscode
+# Directories #
+###############
+logs/
+log/
+
+# OS generated files #
+######################
+.DS_Store
+*.db
+Icon
+Thumbs.db
+*~HASLLAs
+,9   					
+logfile
+
+
+# Sass compilador
+.sass-cache

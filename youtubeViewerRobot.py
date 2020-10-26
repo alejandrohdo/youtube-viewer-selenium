@@ -11,6 +11,10 @@ from random import randint
 from selenium.webdriver.common.keys import Keys 
 from AuthGoogle import AuthGoogle
 
+arrayPath=(os.path.dirname(os.path.abspath(__file__)))
+fileConfig = arrayPath+'/config.json'
+with open(fileConfig) as data_file:    
+    dataConfig = json.load(data_file)
 
 class YoutubeViewerRobot():
 	"""Script que permite acceder a youtube y visualizar los videos por canal"""
@@ -98,8 +102,6 @@ class YoutubeViewerRobot():
 
 	def init_chrome(self, is_auth=False, username=None, password=None):
 		try:
-			# PATH_FIREFOXDRIVER = '/home/alejandro/Downloads/chromedriver_linux64-2/chromedriver'
-			PATH_FIREFOXDRIVER = '/home/alejandro/Downloads/geckodriver-v0.26.0-linux64/geckodriver'
 			PATH_LOG = self.get_path_base_driver() +"/app/tweet/log/log_renovate_cookie_twitter.txt"
 			options = Options()
 			# options.add_argument("--headless")
@@ -111,11 +113,11 @@ class YoutubeViewerRobot():
 			# options.log.level = "trace"
 			if is_auth:
 				# profile.set_preference("media.volume_scale", "0.0")
-				profile = webdriver.FirefoxProfile('/home/alejandro/.mozilla/firefox/1kj45idd.default')
+				profile = webdriver.FirefoxProfile(dataConfig.get('path_config').get('firefox_profile'))
 				self.driver = webdriver.Firefox(
 				    # capabilities=caps,
 				    options=options, 
-				    executable_path=PATH_FIREFOXDRIVER,
+				    executable_path=dataConfig.get('path_config').get('dir_gectkodriver_mozilla'),
 				    firefox_profile = profile
 				    # log_path=self.get_path_base_driver()+'/log/twitter/drivefirefox.log'
 			    )
@@ -125,7 +127,7 @@ class YoutubeViewerRobot():
 				self.driver = webdriver.Firefox(
 				    # capabilities=caps,
 				    options=options, 
-				    executable_path=PATH_FIREFOXDRIVER,
+				    executable_path=dataConfig.get('path_config').get('dir_gectkodriver_mozilla'),
 				    firefox_profile = profile
 				)
 		except Exception as e:
@@ -183,7 +185,7 @@ while True:
 		entity_youtue_viewer = YoutubeViewerRobot()
 		if count_viewers==0:
 			username='iisotecperu@gmail.com'
-			password='Iisotec2020#$%'
+			password='Iisotec2020xxx'
 			# auth_google = AuthGoogle(username,password)
 			entity_youtue_viewer.init_chrome(is_auth=True)
 			# entity_youtue_viewer.init_chrome(is_auth=True, username=username, password=password)
