@@ -1,0 +1,1209 @@
+Invalid port. Exiting...
+1603598342041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8N4igq"
+1603598348567	Marionette	INFO	Listening on port 33539
+1603598348703	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,jira.webresources:mentions-feature,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:16.999: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:17.000: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12251): GLib-GObject-WARNING **: 23:01:17.000: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f253ee54ba0' of type 'MaiAtkType139'
+
+(firefox:12251): GLib-GObject-WARNING **: 23:01:17.000: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f253ee54f60' of type 'MaiAtkType139'
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:17.072: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:17.096: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:17.096: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:17.097: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12251): GLib-GObject-WARNING **: 23:01:17.100: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f253ad5d5b0' of type 'MaiAtkType139'
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:17.557: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:22.832: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+
+(firefox:12251): GLib-GObject-CRITICAL **: 23:01:32.143: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1603598731736	Marionette	INFO	Stopped listening on port 33539
+1603598750630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8MW4ud"
+1603598756611	Marionette	INFO	Listening on port 37935
+1603598756658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: undefined, line 0: Error: Node.removeChild: Argument 1 is not an object.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603599896897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8LeOSd"
+1603599902914	Marionette	INFO	Listening on port 33025
+1603599902938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: undefined, line 0: Error: Node.removeChild: Argument 1 is not an object.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603601240867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2vtFa1"
+1603601246891	Marionette	INFO	Listening on port 35307
+1603601246993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "overlay".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "map".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "map".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: "getSources failed. Connection may have closed: Error: Connection closed, pending request to server0.conn0.child2/thread21, type sources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:260:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetSources@resource://devtools/client/fronts/thread.js:188:34\n_ensureAllSourcesPopulated/<@resource://devtools/client/framework/source-map-url-service.js:452:53\n_ensureAllSourcesPopulated/sourcesLoading<@resource://devtools/client/framework/source-map-url-service.js:463:13\n_ensureAllSourcesPopulated@resource://devtools/client/framework/source-map-url-service.js:465:9\nsubscribeByID@resource://devtools/client/framework/source-map-url-service.js:73:10\nupdateSourceLink@resource://devtools/client/inspector/rules/views/rule-editor.js:360:61\n_create@resource://devtools/client/inspector/rules/views/rule-editor.js:135:10\nRuleEditor@resource://devtools/client/inspector/rules/views/rule-editor.js:79:8\n_createEditors@resource://devtools/client/inspector/rules/rules.js:1221:23\n_populate/<@resource://devtools/client/inspector/rules/rules.js:999:37\n"
+console.warn: "fetching stylesheets failed" (new Error("Connection closed, pending request to server0.conn0.child2/styleSheetsActor4, type getStyleSheets failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:260:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:18:48\n", "resource://devtools/shared/protocol/Front.js", 77))
+console.error: "Exception while getting unique selector" (new Error("Connection closed, pending request to server0.conn0.child2/domnode29, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:260:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_create/<@resource://devtools/client/inspector/rules/views/rule-editor.js:171:48\n_create@resource://devtools/client/inspector/rules/views/rule-editor.js:198:20\nRuleEditor@resource://devtools/client/inspector/rules/views/rule-editor.js:79:8\n_createEditors@resource://devtools/client/inspector/rules/rules.js:1221:23\n_populate/<@resource://devtools/client/inspector/rules/rules.js:999:37\n", "resource://devtools/shared/protocol/Front.js", 77))
+JavaScript error: resource://devtools/client/inspector/flexbox/flexbox.js, line 55: TypeError: this.inspector is null
+JavaScript error: resource://devtools/client/inspector/grids/grid-inspector.js, line 104: TypeError: this.inspector is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603601563821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePfRG0z"
+1603601569831	Marionette	INFO	Listening on port 40253
+1603601569861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-profilecard failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-profilecard.875699218751c8b50152.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-connect-modules failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-connect-modules.3ddd3acb97accca3a492.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~issue failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~issue.54dc9e49b382f862ccc4.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~issue failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~issue.54dc9e49b382f862ccc4.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-engagement-messages failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-engagement-messages.17f7dc5ad3c3948b363c.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603601662485	Marionette	INFO	Stopped listening on port 40253
+1603601675348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZTn94k"
+1603601681581	Marionette	INFO	Listening on port 35633
+1603601681683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-share-button failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-share-button.d6b2b8df21f10c237047.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1603601870983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8hzVIr"
+1603601876809	Marionette	INFO	Listening on port 34171
+1603601876839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-profilecard failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-profilecard.875699218751c8b50152.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-connect-modules failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-connect-modules.3ddd3acb97accca3a492.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~issue failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~issue.54dc9e49b382f862ccc4.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~issue failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~issue.54dc9e49b382f862ccc4.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-engagement-messages failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-engagement-messages.17f7dc5ad3c3948b363c.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603602677222	Marionette	INFO	Stopped listening on port 34171
+console.warn: "Inspector destroyed while executing onReflow callback"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603602915182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqbB9pB"
+1603602921353	Marionette	INFO	Listening on port 44757
+1603602921428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: Syntax error, unrecognized expression: //paper-tooltip//div[text()='Me gusta']
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603603253203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile33klc2"
+1603603258942	Marionette	INFO	Listening on port 44009
+1603603259034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~vendor failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~vendor failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: , line 0: uncaught exception: Syntax error, unrecognized expression: )
+console.warn: "IGNORED REDUX ACTION:" "INITIALIZE"
+1603604052811	Marionette	INFO	Stopped listening on port 44009
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603604128962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegZcg2R"
+1603604134900	Marionette	INFO	Listening on port 42351
+1603604134997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "overlay".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "map".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "map".
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603604233269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelr5CNS"
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2403: TypeError: event.target.closest is not a function
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1603604240064	Marionette	INFO	Listening on port 34521
+1603604240122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603604347403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBY7Dk2"
+1603604353179	Marionette	INFO	Listening on port 41271
+1603604353227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,jira.webresources:mentions-feature,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603604419251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewMz1fA"
+1603604425136	Marionette	INFO	Listening on port 37713
+1603604425177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603604669283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles7ZklT"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1603604675580	Marionette	INFO	Listening on port 44557
+1603604675625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603605068466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWysc92"
+1603605075542	Marionette	INFO	Listening on port 45199
+1603605075647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603605222924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXe5Hgf"
+1603605229683	Marionette	INFO	Listening on port 45115
+1603605229979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.webresources:mentions-feature,jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603605414233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile33edT4"
+1603605421004	Marionette	INFO	Listening on port 42373
+1603605421067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603606278483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTOx3Xv"
+1603606285107	Marionette	INFO	Listening on port 38301
+1603606285141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1603606578375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileahaokc"
+1603606595784	Marionette	INFO	Listening on port 43625
+1603606595855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603606679649	Marionette	INFO	Stopped listening on port 43625
+1603607187403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4azOti"
+1603607196934	Marionette	INFO	Listening on port 45003
+1603607196990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603607383670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9uPnnh"
+1603607394297	Marionette	INFO	Listening on port 45173
+1603607394378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1603607461847	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603607463782	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0004,name=PImageBridge::Msg_Update) Channel error: cannot send/recv
+
+Exiting due to channel error.
+1603607554877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewgfcwy"
+1603607564471	Marionette	INFO	Listening on port 36315
+1603607564908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app.730829d5b0a46e8afcc9.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app.730829d5b0a46e8afcc9.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603607727570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDx8ddc"
+1603607736720	Marionette	INFO	Listening on port 34005
+1603607736825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0004,name=PImageBridge::Msg_Update) Channel error: cannot send/recv
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603607842954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyqxG2A"
+1603607851611	Marionette	INFO	Listening on port 37197
+1603607851801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1603608106500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel4HsOE"
+1603608114663	Marionette	INFO	Listening on port 37169
+1603608114700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-profilecard failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-profilecard.875699218751c8b50152.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-connect-modules failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-connect-modules.3ddd3acb97accca3a492.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-project-create-drawer failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-project-create-drawer.529d3c52388ebaa30263.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-engagement-messages failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-engagement-messages.17f7dc5ad3c3948b363c.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603608803077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRHc7V1"
+1603608809297	Marionette	INFO	Listening on port 40767
+1603608809315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-engagement-messages failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-engagement-messages.17f7dc5ad3c3948b363c.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-project-create-drawer failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-project-create-drawer.529d3c52388ebaa30263.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-connect-modules failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-connect-modules.3ddd3acb97accca3a492.8.js)
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603608903106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehwptoN"
+1603608910441	Marionette	INFO	Listening on port 37511
+1603608910595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603609096032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN2W0yk"
+1603609102042	Marionette	INFO	Listening on port 41795
+1603609102122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1603609252602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekbRluP"
+1603609258954	Marionette	INFO	Listening on port 35377
+1603609259069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603609354637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecs7hzs"
+1603609361729	Marionette	INFO	Listening on port 33853
+1603609361783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603609458174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefMNVw8"
+1603609464844	Marionette	INFO	Listening on port 37957
+1603609464983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603610107063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZxsrgU"
+1603610113573	Marionette	INFO	Listening on port 34737
+1603610113615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603610196536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileICaGkr"
+1603610203141	Marionette	INFO	Listening on port 46213
+1603610203173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603610305723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCgSwoO"
+1603610312567	Marionette	INFO	Listening on port 38361
+1603610312702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://addons-amo.cdn.mozilla.net/amo-1b7bb03519ef17475bfb.js, line 1: Error: Addon not found
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603610542362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerbufzA"
+1603610548634	Marionette	INFO	Listening on port 38243
+1603610548709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603611155855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLEMexG"
+1603611162341	Marionette	INFO	Listening on port 41823
+1603611162387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1603611274429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMrikd"
+1603611280988	Marionette	INFO	Listening on port 43249
+1603611281058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://addons-amo.cdn.mozilla.net/amo-1b7bb03519ef17475bfb.js, line 1: Error: Addon not found
+JavaScript error: , line 0: uncaught exception: Syntax error, unrecognized expression: )
+JavaScript error: , line 0: uncaught exception: Syntax error, unrecognized expression: )
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603611896452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile60nAlO"
+1603611902979	Marionette	INFO	Listening on port 37827
+1603611903145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603612164719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP2lUXD"
+1603612171269	Marionette	INFO	Listening on port 43143
+1603612171424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603612355924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelSvd6q"
+1603612362647	Marionette	INFO	Listening on port 39057
+1603612362686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603612531884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3mLkaE"
+1603612538670	Marionette	INFO	Listening on port 38535
+1603612538725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.webresources:mentions-feature,jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603613076966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWZnBaq"
+1603613083528	Marionette	INFO	Listening on port 43991
+1603613083685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,jira.webresources:mentions-feature,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603613177668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem2EH0d"
+1603613184554	Marionette	INFO	Listening on port 38719
+1603613184601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1603613320818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0tcgSK"
+1603613327661	Marionette	INFO	Listening on port 43945
+1603613328300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,jira.webresources:mentions-feature,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603613438277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV0I659"
+1603613444739	Marionette	INFO	Listening on port 40873
+1603613444857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "search_impl".
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603613654181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezAdIH7"
+1603613660805	Marionette	INFO	Listening on port 43157
+1603613660840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1603613784170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGz4oBP"
+1603613790981	Marionette	INFO	Listening on port 34471
+1603613791024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+1603671096205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebPxlv9"
+1603671103821	Marionette	INFO	Listening on port 37781
+1603671103924	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603671343197	Marionette	INFO	Stopped listening on port 37781
+1603671356591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel7aAOa"
+1603671362926	Marionette	INFO	Listening on port 37725
+1603671363031	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: undefined, line 0: Error: SelectorGadget is not defined
+JavaScript error: undefined, line 0: Error: Node.removeChild: Argument 1 is not an object.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603672163274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem47XFt"
+1603672169600	Marionette	INFO	Listening on port 41643
+1603672169734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603672258156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMXiIFv"
+1603672263819	Marionette	INFO	Listening on port 34149
+1603672263901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-ipn83r/b/24/0c06a14debbd6444943af669ea729e60/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603672426028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6aZeqc"
+1603672431919	Marionette	INFO	Listening on port 36871
+1603672431964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~vendor failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-issue-app~vendor failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1603672772166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXxsN1C"
+1603672778141	Marionette	INFO	Listening on port 41961
+1603672778198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "onion".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "onion".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "util".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "overlay".
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603673004829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9ipRU6"
+1603673011831	Marionette	INFO	Listening on port 35661
+1603673011964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-profilecard failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-profilecard.875699218751c8b50152.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-connect-modules failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-connect-modules.3ddd3acb97accca3a492.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-engagement-messages failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-engagement-messages.17f7dc5ad3c3948b363c.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-share-button failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-share-button.d6b2b8df21f10c237047.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1603673044033	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603673065945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "overlay".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "map".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&region=au&callback=onApiLoad, line 98: Error: Could not load "map".
+1603673072267	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603673699678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX47cfT"
+1603673705410	Marionette	INFO	Listening on port 36667
+1603673705585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-project-create-drawer failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-project-create-drawer.529d3c52388ebaa30263.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-engagement-messages failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-engagement-messages.17f7dc5ad3c3948b363c.8.js)
+1603673810943	Marionette	INFO	Stopped listening on port 36667
+1603673827336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDFYuej"
+1603673832912	Marionette	INFO	Listening on port 42599
+1603673832976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-engagement-messages failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-engagement-messages.17f7dc5ad3c3948b363c.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-connect-modules failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-connect-modules.3ddd3acb97accca3a492.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-share-button failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-share-button.d6b2b8df21f10c237047.8.js)
+JavaScript error: https://herostartup.atlassian.net/secure/BrowseProjects.jspa, line 55: ChunkLoadError: Loading chunk async-profilecard failed.
+(error: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-profilecard.875699218751c8b50152.8.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603673958579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegzfeoN"
+1603673965268	Marionette	INFO	Listening on port 40659
+1603673965319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/o2joag/b/24/f28d3df62da111dc907eb4558e154011/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,jira.webresources:mentions-feature,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603674670711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLY1fFe"
+1603674676472	Marionette	INFO	Listening on port 36093
+1603674676578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/o2joag/b/24/f28d3df62da111dc907eb4558e154011/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603675854901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD3lfEv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603675862057	Marionette	INFO	Listening on port 45325
+1603675862159	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603676070782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelr9j9G"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603676076351	Marionette	INFO	Listening on port 45863
+1603676076420	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603676555849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--mute-audio" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqBohIR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603676562036	Marionette	INFO	Listening on port 40473
+1603676562078	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1603676643708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecLwUOo"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603676649506	Marionette	INFO	Listening on port 44575
+1603676649558	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603676750177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep74leN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603676756397	Marionette	INFO	Listening on port 43663
+1603676756504	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603676848085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWxQHw5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603676854499	Marionette	INFO	Listening on port 39983
+1603676854536	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1603676857148	Marionette	INFO	Stopped listening on port 39983
+1603676858046	Marionette	INFO	Stopped listening on port 43663
+1603677054039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile16HyJR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677060217	Marionette	INFO	Listening on port 33291
+1603677060265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603677113466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9FxOmX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677119825	Marionette	INFO	Listening on port 32849
+1603677119909	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1603677132627	Marionette	INFO	Stopped listening on port 32849
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603677156725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJfUE7E"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677163122	Marionette	INFO	Listening on port 34001
+1603677163235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603677208504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZBZUGi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677214849	Marionette	INFO	Listening on port 34539
+1603677214951	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603677231255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJljNNK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677237380	Marionette	INFO	Listening on port 43947
+1603677237397	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603677286400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileonq2Ip"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677301241	Marionette	INFO	Listening on port 37927
+1603677301284	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1603677539690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezv2wAe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677545807	Marionette	INFO	Listening on port 44257
+1603677545832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603677584760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGoLWtf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677590917	Marionette	INFO	Listening on port 43379
+1603677591000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603677637727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO46HfS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603677652650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYNI4X9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603677658773	Marionette	INFO	Listening on port 44213
+1603677658797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: undefined, line 0: Error: Node.removeChild: Argument 1 is not an object.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: moz-extension://f60f4919-31ca-406a-aa91-95bbe99c7d99/background.js, line 149: Error: Could not establish connection. Receiving end does not exist.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603678088058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMnBxbd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603678094173	Marionette	INFO	Listening on port 38555
+1603678094199	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603678387126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePYJVYq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603678393102	Marionette	INFO	Listening on port 34709
+1603678393158	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1603678552369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebhqGI3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603678558495	Marionette	INFO	Listening on port 41953
+1603678558513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2274))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle27 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle27 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle27 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle27 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 327))
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:363:24\nhandler@resource://devtools/shared/protocol/Actor.js:166:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle27 (resource://devtools/server/actors/styles.js:363:24)", "resource://devtools/shared/protocol/Front.js", 327))
+JavaScript error: resource://devtools/client/fronts/node.js, line 418: TypeError: this.parentFront is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603678910207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile54NnZX"
+1603678913479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelCC9q7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603678919476	Marionette	INFO	Listening on port 40225
+1603678919515	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603679121989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCpL11M"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603679128086	Marionette	INFO	Listening on port 33525
+1603679128122	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603679197087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNYLjYl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603679203358	Marionette	INFO	Listening on port 42283
+1603679203432	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603679338250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqMtCX5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603679344300	Marionette	INFO	Listening on port 36879
+1603679344394	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603679485256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXGnuIQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603679491660	Marionette	INFO	Listening on port 33245
+1603679491690	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603679628594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGjnxrC"
+1603679643134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ0hSa7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603679649903	Marionette	INFO	Listening on port 41867
+1603679649965	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1603679853405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8oNVC6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603679859737	Marionette	INFO	Listening on port 44753
+1603679859801	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603679938732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZaWwFD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603679944660	Marionette	INFO	Listening on port 37371
+1603679944693	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603680193795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelE8z7Z"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603680199878	Marionette	INFO	Listening on port 38473
+1603680199928	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603680560177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUJeh26"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603680566401	Marionette	INFO	Listening on port 43737
+1603680566438	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603680658363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegPOria"
+1603680664510	Marionette	INFO	Listening on port 34211
+1603680664594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/o2joag/b/24/f28d3df62da111dc907eb4558e154011/_/download/contextbatch/js/jira.create.issue,jira.webresources:calendar-en,jira.webresources:mentions-feature,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1603680890701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--disable-gpu" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu8MxkT"
+1603680896433	Marionette	INFO	Listening on port 33361
+1603680896609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/async-issue-app~vendor.58a5cc01babb3b40fc4d.8.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://dmpjt9zy28olw.cloudfront.net/atl-vertigo--shard-jira-prod-us-24--3--jres.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-CDN/o2joag/b/24/f28d3df62da111dc907eb4558e154011/_/download/contextbatch/js/jira.webresources:mentions-feature,jira.create.issue,jira.webresources:calendar-en,-jira.heritage/batch.js?jag=true&locale=en-US, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://jira-frontend-static.prod.public.atl-paas.net/assets-brotli/229dc7ab49.dd02fc686f88f2ea7f0c.8.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
