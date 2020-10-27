@@ -113,7 +113,11 @@ class YoutubeViewerRobot():
 			# options.log.level = "trace"
 			if is_auth:
 				# profile.set_preference("media.volume_scale", "0.0")
-				profile = webdriver.FirefoxProfile(dataConfig.get('path_config').get('firefox_profile'))
+				try:
+					profile = webdriver.FirefoxProfile(dataConfig.get('path_config').get('firefox_profile'))
+				except Exception as e:
+					print ('Posiblemte no existe el profile>', profile)
+					profile = None
 				self.driver = webdriver.Firefox(
 				    # capabilities=caps,
 				    options=options, 

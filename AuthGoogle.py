@@ -2,8 +2,7 @@ from selenium import webdriver
 from time import sleep
 
 class AuthGoogle:
-  """Metodo alternativo de login en google, para el servicio youtube"""
-
+    """Metodo alternativo de login en google, para el servicio youtube"""
     def __init__(self,username,password):
         self.PATH_CHROMEDRIVER = '/home/alejandro/Downloads/chromedriver_linux64-2/chromedriver'
         self.username = username
