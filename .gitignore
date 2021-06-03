@@ -4,7 +4,7 @@
 media/*
 #gitIgnore de Setting.py
 public/*
-youtube-viewer/__pycache__/*
+youtube-viewer-selenium/__pycache__/*
 config.json
 llave_privada_ssl.key
 bin
