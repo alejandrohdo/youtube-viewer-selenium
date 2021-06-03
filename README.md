@@ -29,7 +29,7 @@ Nota: Este proyecto es  un experimento para  probar el algoritmo de youtube en c
 
 Clonar el repositorio
 ```
-git clone git@github.com:alejandrohdo/youtube-viewer.git
+git clone git@github.com:alejandrohdo/youtube-viewer-selenium.git
 ```
 creación y activación de un entorno virtual
 ```
@@ -37,7 +37,7 @@ virtualenv -p python3 env_youtube_viewer && source env_youtube_viewer/bin/activa
 ```
 Creación de archivo de configuración, provisionamiento de configuraciones de un usuario
 ```
-cp youtube-viewer/example_config.json youtube-viewer/config.json && cd youtube-viewer
+cp youtube-viewer-selenium/example_config.json youtube-viewer-selenium/config.json && cd youtube-viewer-selenium
 
 ```
 ### Instalacion de dependencias del proyecto
