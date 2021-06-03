@@ -102,12 +102,8 @@ class YoutubeViewerRobot():
 
 	def init_chrome(self, is_auth=False, username=None, password=None):
 		try:
-			PATH_LOG = self.get_path_base_driver() +"/app/tweet/log/log_renovate_cookie_twitter.txt"
+			PATH_LOG = self.get_path_base_driver() +"/app/tweet/log/log_renovate_cookie_yb.txt"
 			options = Options()
-			# options.add_argument("--headless")
-			# options.add_argument("--mute-audio") # En firefox no funciona
-			# options.add_argument('--no-sandbox')
-			# options.add_argument('--disable-gpu')
 			options.add_argument('--disable-gpu')
 			options.add_argument('--disable-dev-shm-usage')
 			# options.log.level = "trace"
@@ -170,13 +166,6 @@ class YoutubeViewerRobot():
 				except Exception as e:
 					print ('Error al ubicar xpath de ver todos los videos..', e )
 				time.sleep(5)
-
-			# guardamos el registro de renovaciones en log
-			# f = open(PATH_LOG, 'a')
-			# mensaje = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ') + " : x-csrf-token :" + \
-			#  str(self.headers.get('x-csrf-token')) + ": x-guest-token : " + str(self.headers.get('x-guest-token'))
-			# f.write('\n' + mensaje)
-			# f.close()
 			self.driver.close()
 			self.driver.quit()
 		except Exception as e:
@@ -188,18 +177,17 @@ while True:
 	try:
 		entity_youtue_viewer = YoutubeViewerRobot()
 		if count_viewers==0:
-			username='iisotecperu@gmail.com'
-			password='Iisotec2020xxx'
+			username='your-email@gmail.com'
+			password='***********'
 			# auth_google = AuthGoogle(username,password)
 			entity_youtue_viewer.init_chrome(is_auth=True)
 			# entity_youtue_viewer.init_chrome(is_auth=True, username=username, password=password)
 			# driver = auth_google.login_google()
 		else:
 			entity_youtue_viewer.init_chrome()
-		list_channels = ['https://www.youtube.com/channel/UCvKo8kmdoyW38lHGaqBfGuQ/videos',
-		'https://www.youtube.com/channel/UCkVPuYiqd2QzGuOWLzVe3Nw/videos',
-		'https://www.youtube.com/channel/UCbX3gql5awyj6_60HOsuigg/videos',
-		'https://www.youtube.com/channel/UCriyhRhNvOMyVlEYZFDXrUA/videos']
+		list_channels = ['https://www.youtube.com/user/vishenlakhiani/videos',
+		'https://www.youtube.com/c/Mindvalley/videos',
+		'https://www.youtube.com/c/Evancarmichael/videos']
 		entity_youtue_viewer.get_open_browser(list_channels, count_viewers)
 		print ('Esperando....')
 		count_viewers +=1 

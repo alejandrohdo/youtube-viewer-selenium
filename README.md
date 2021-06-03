@@ -1,6 +1,7 @@
 # Aplicación que ayuda a visualizar videos en youtube por canales de un usuario
 
 By [@alejanadrohdo](https://www.facebook.com/alejandrohdo)
+Nota: Este proyecto es  un experimento para  probar el algoritmo de youtube en cuanto al posicionamiento de videos(YouTube SEO).
 
 ### Requisitos generales:
 - git
@@ -28,15 +29,15 @@ By [@alejanadrohdo](https://www.facebook.com/alejandrohdo)
 
 Clonar el repositorio
 ```
-git clone git@gitlab.com:iisotec/youtube-viewer-selenium.git
+git clone git@github.com:alejandrohdo/youtube-viewer.git
 ```
 creación y activación de un entorno virtual
 ```
-virtualenv -p python3 env_hombo_youtube && source env_hombo_youtube/bin/activate
+virtualenv -p python3 env_youtube_viewer && source env_youtube_viewer/bin/activate
 ```
 Creación de archivo de configuración, provisionamiento de configuraciones de un usuario
 ```
-cp hombo-youtube/example_config.json hombo-youtube/config.json && cd hombo-youtube
+cp youtube-viewer/example_config.json youtube-viewer/config.json && cd youtube-viewer
 
 ```
 ### Instalacion de dependencias del proyecto

@@ -4,7 +4,7 @@
 media/*
 #gitIgnore de Setting.py
 public/*
-hombo-youtube/__pycache__/*
+youtube-viewer/__pycache__/*
 config.json
 llave_privada_ssl.key
 bin
